@@ -1,0 +1,3 @@
+[submodule "submodules/SubmoduleRepository_Kosian"]
+	path = submodules/SubmoduleRepository_Kosian
+	url = git@github.com:kosian-d/SubmoduleRepository_Kosian.git
